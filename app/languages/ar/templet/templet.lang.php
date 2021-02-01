@@ -1,0 +1,27 @@
+<?php
+$_['text_dashboard']="اللوحة الرئيسية";
+$_['text_app_manager']="محمد ريا";
+$_['text_app_managerTitel']="مدير التطبيق";
+$_['text_general_static']="الاحصائيات العامة";
+$_['text_general_employee']="المستخدمين";
+$_['text_store']="المخزن";
+$_['text_store_categories']="أصناف المنتجات";
+$_['text_store_products']="المنتجات";
+$_['text_clients']="العملاء";
+$_['text_supplieres']="الموردين";
+$_['text_expenses']="المصروفات";
+$_['text_expenses_categories']="أنواع المصروفات";
+$_['text_expenses_daily_expenses']="المصروفات اليومية";
+$_['text_transaction']="المعاملات";
+$_['text_transaction_purchases']="المشتريات";
+$_['text_trancaction_sales']="المبيعات";
+$_['text_reports']="التقارير";
+$_['text_notifications']="التنبيهات";
+$_['text_notfound']="الصفحة غير موجودة";
+$_['text_users_list']="قائمة المستخدمين";
+$_['text_users_groups']="مجموعة المستخدمين";
+$_['text_users_privileges']="صلاحيات المستخدمين";
+$_['text_notaccess']="لايمكنك الدخول الى هنا";
+$_['text_welcome']="مرحبا";
+$_['text_languag']="تغير اللغة";
+$_['text_logout']="تسجيل خروج";
